@@ -1,6 +1,6 @@
 Developer : Redwan Ahammod
 
-Developed Company : Redwan Softwares
+Developer Company : Redwan Softwares
 
 # tpconf_bin_xml.py
 
