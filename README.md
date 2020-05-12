@@ -136,8 +136,13 @@ fi
 Contact to Developer
 
 YouTube   ঃ    https://www.youtube.com/channel/UCsRKF0U3L6iqQ1r6Cjc0wIQ
+
 Facebook  : https://www.facebook.com/tuber.redwan
+
 Twitter   : https://www.twitter.com/redwanahammod
+
 Instagram : https://www.instagram.com/freelancer_redwan
+
 Linkedin  :https://www.linkedin.com/in/redwan-ahammod-862293184?originalSubdomain=bd
+
 Email : redwanahammod@gmail.com
